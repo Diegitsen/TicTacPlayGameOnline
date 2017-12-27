@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "405571449978",
+    "firebase_url": "https://tictacplaygame-5b8af.firebaseio.com",
+    "project_id": "tictacplaygame-5b8af",
+    "storage_bucket": "tictacplaygame-5b8af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405571449978:android:ae0eebc11b0d0717",
+        "android_client_info": {
+          "package_name": "com.example.diego.tictacplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405571449978-3o0hrivf37ipeg89lqtdb6n29hhdlauj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diego.tictacplay",
+            "certificate_hash": "e8f702764e0649e0685619c7c19010e98bb1d77c"
+          }
+        },
+        {
+          "client_id": "405571449978-jsto1maqnah3g908ht4gke5a3oqg90gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpSwLJlrkSUJHfWlaOxGGd41JlHFM_QKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405571449978-jsto1maqnah3g908ht4gke5a3oqg90gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
